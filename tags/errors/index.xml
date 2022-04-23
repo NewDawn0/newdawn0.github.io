@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Errors on Shin Package Manager - Docs</title>
+    <link>https://newdawn0.github.io/tags/errors/</link>
+    <description>Recent content in Errors on Shin Package Manager - Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://newdawn0.github.io/tags/errors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Common Errors</title>
+      <link>https://newdawn0.github.io/posts/test/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://newdawn0.github.io/posts/test/</guid>
+      <description>Overview: This post will guide you through all the possible available errors that can occur when using Shin. First this quick guide will cover the install errors. Next come the uninstall errors. And what to do if you find a new undocumented error. Another easy way to decect erros is the arrow is usually depicted in a cyan/blue color. Although not all cyan/blue arrows are errors.
+Install Errors:  Install Errors Uninstall Errors Unavailable Package Errors What to do with undocumented errors  Install Errors: There two types of install errors that can occur in the installation process Because Shin always checks if a package is already installed to avoid duplication or overwriting of pakcages.</description>
+    </item>
+    
+  </channel>
+</rss>

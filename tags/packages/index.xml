@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Packages on Shin Package Manager - Docs</title>
+    <link>https://newdawn0.github.io/tags/packages/</link>
+    <description>Recent content in Packages on Shin Package Manager - Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://newdawn0.github.io/tags/packages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing packages</title>
+      <link>https://newdawn0.github.io/posts/test/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://newdawn0.github.io/posts/test/</guid>
+      <description>Overview: This post will guide you through installing packages with 2 different methods and installing multiple packages. The first part of the post will go through the general installation process of packages without choosing a package manager specifically. The second part of the post will guide you through installing packages with a specific package manager. And finally the last part will show you how to install multiple packages with and without a package manager.</description>
+    </item>
+    
+    <item>
+      <title>Listing packages and package managers</title>
+      <link>https://newdawn0.github.io/posts/test/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://newdawn0.github.io/posts/test/</guid>
+      <description>Overview: This post will guide you show you how to list all installed Packages and Package managers
+Table of Contents:  Listing all installed packages Listing all installed package managers Listing all installed packages with their package managers  Listing all installed packages: To list all installed packages you can use one of the following commands:
+sudo shin list sudo shin list-packages sudo shin -l Output: Listing all installed package managers: To list all installed package managers you can use one of the following commands: Be aware that this list of package managers unlike the the package list does not change it is written on install of shin and will not change.</description>
+    </item>
+    
+    <item>
+      <title>Searching for packages</title>
+      <link>https://newdawn0.github.io/posts/test/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://newdawn0.github.io/posts/test/</guid>
+      <description>Overview: This post will guide you show you how to list all installed Packages and Package managers
+Table of Contents:  Listing all installed packages Listing all installed package managers  Listing all installed packages: There are often multiple ways to archieve something with shin. Most commonly there you have the option to type the full word or just the first letter(s) but starting with a minus. Anyway here are the two ways to uninstall a package with Shin</description>
+    </item>
+    
+    <item>
+      <title>Uninstalling packages</title>
+      <link>https://newdawn0.github.io/posts/test/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://newdawn0.github.io/posts/test/</guid>
+      <description>Overview: This post will guide you through uninstalling packages one by one and uninstalling multiple packages
+Table of Contents:  Uninstalling packages one by one Uninstalling multiple packages  Uninstalling packages one by one: There are often multiple ways to archieve something with shin. Most commonly there you have the option to type the full word or just the first letter(s) but starting with a minus. Anyway here are the two ways to uninstall a package with Shin</description>
+    </item>
+    
+  </channel>
+</rss>

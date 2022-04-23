@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Searching on Shin Package Manager - Docs</title>
+    <link>https://newdawn0.github.io/tags/searching/</link>
+    <description>Recent content in Searching on Shin Package Manager - Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://newdawn0.github.io/tags/searching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Searching for packages</title>
+      <link>https://newdawn0.github.io/posts/test/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://newdawn0.github.io/posts/test/</guid>
+      <description>Overview: This post will guide you show you how to list all installed Packages and Package managers
+Table of Contents:  Listing all installed packages Listing all installed package managers  Listing all installed packages: There are often multiple ways to archieve something with shin. Most commonly there you have the option to type the full word or just the first letter(s) but starting with a minus. Anyway here are the two ways to uninstall a package with Shin</description>
+    </item>
+    
+  </channel>
+</rss>
